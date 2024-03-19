@@ -1,0 +1,1 @@
+{"Modules":[{"Key":"","Source":"","Dir":"."},{"Key":"S3_bucket","Source":"./module/S3_bucket","Dir":"module/S3_bucket"},{"Key":"ec2","Source":"./module/ec2","Dir":"module/ec2"},{"Key":"network-module","Source":"./module/network","Dir":"module/network"},{"Key":"security_group","Source":"./module/security_group","Dir":"module/security_group"}]}
