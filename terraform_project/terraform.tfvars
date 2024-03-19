@@ -1,0 +1,21 @@
+vpc_varaiable = "10.0.0.0/16"
+public_subnet = "10.0.1.0/24"
+private_subnet = "10.0.2.0/24"
+eg_protocol = "all"
+eg_role_no = 100
+eg_to_port = 0
+eg_from_port = 0
+eg_action = "allow"
+eg_cidr = "0.0.0.0/0"
+in_protocol = "all"
+in_role_no = 100
+in_to_port = 0
+in_from_port = 0
+in_action = "allow"
+in_cidr = "0.0.0.0/0"
+
+ami = "ami-0c55b159cbfafe1f0"
+instance_type = "t2.micro"
+bucket_name = "Saeed_bucket"
+outbound ="Allow all outbound traffic"
+inbound = "Allow SSH (port 22) from 0.0.0.0/0"
